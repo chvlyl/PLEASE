@@ -20,8 +20,8 @@ The MetaPhlAn outputs for COMBO samples and PLEASE samples are in the following 
 - `1_Data/Raw_Data/MetaPhlAn/PLEASE`
 
 #### Phylogenetic trees by PhyloPhlAn
-I used the Phylogenetic trees by PhyloPhlAn to calculate the phylogenetic diversity. However, the trees from PhyloPhlAn can not be directly used (it caused some errors) and I processed the tree files. "P","F","G","S"  indicate taxonomic levels "phylum", "family", "genus", "species".  
-`1_Data/Raw_Data/Phlogenetic_tree`
+I used the Phylogenetic trees by PhyloPhlAn to calculate the phylogenetic diversity. However, the trees from PhyloPhlAn can not be directly used (it caused some errors) and I processed the tree files. "P","F","G","S"  indicate taxonomic levels "phylum", "family", "genus", "species".    
+- `1_Data/Raw_Data/Phlogenetic_tree`
 
 ## Analysis
 
