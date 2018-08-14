@@ -1,6 +1,8 @@
 # PLEASE data analysis by Eric Z Chen
 This is a repo for my paper (Inflammation, Antibiotics, and Diet as Environmental Stressors of the Gut Microbiome in Pediatric Crohn’s Disease. Cell Host & Microbe. 2015). This repo includes the preprocessed data used in this paper. 
 
+We called the data used in this paper as PLEASE data, which are shotgun metagenomic sequencing data. For details, please refer to my paper.
+
 
 
 ## Data
