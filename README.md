@@ -33,7 +33,7 @@ I used the Phylogenetic trees by PhyloPhlAn to calculate the phylogenetic divers
 - The processed reads were used as input for MetaPhlAn. Since MetaPhlAn can only take single end reads as input and our data are pair-end reads, the paired reads (R1 and R2) were provided as two single end reads to MetaPhlAn. I also tested MetaPhlAn on the first read pair (R1) only and the results are quite similar to the previous ones. 
 
 ## Reference
-[Inflammation, Antibiotics, and Diet as Environmental Stressors of the Gut Microbiome in Pediatric Crohn’s Disease](https://www.sciencedirect.com/science/article/pii/S1931312815003777) Cell Host & Microbe 2015
+[Inflammation, Antibiotics, and Diet as Environmental Stressors of the Gut Microbiome in Pediatric Crohn’s Disease. Cell Host & Microbe 2015](https://www.sciencedirect.com/science/article/pii/S1931312815003777) 
 
 
 
